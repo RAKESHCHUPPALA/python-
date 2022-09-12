@@ -7,6 +7,8 @@ class car(vehicle):
 
     def Manufacture(self):
         print("Manufacture on 2000")
+    def fuel_capacity(self):
+        print("max fuel capacity for Benz is 40")
 
 
 obj=car()

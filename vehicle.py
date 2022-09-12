@@ -8,3 +8,5 @@ class vehicle():
 
     def fuel_capacity(self):
         print("max fuel capacity is 20")
+        
+        
