@@ -7,6 +7,6 @@ class vehicle():
         print("Max speed should be 100")
 
     def fuel_capacity(self):
-        print("max fuel capacity is 20")
+        print("max fuel capacity is 200")
         
         
